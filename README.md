@@ -1,16 +1,14 @@
-## Hi there 👋
+## Facts about me
+🎨 More of a designer than developer
 
-<!--
-**heli-kalki/heli-kalki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥁 Interests:
 
-Here are some ideas to get you started:
+- Art
+- Design in all forms
+- Philosophy
+- Theology
+- Reading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔅 6 years of experience in design 
+
+🧭 Took part in a proseminar in the Hochschule für Philosophie Munich at age 15
