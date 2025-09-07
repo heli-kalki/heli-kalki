@@ -11,7 +11,7 @@
 - Theology
 - Finances
 
-🔅 6 years of experience in graphical design, started with making my own Minecraft Texture Packs.
+🔅 6 years of experience in graphical design, started with making my own Minecraft Texture Packs, still only self-taught.
 
 🧭 Took part in a proseminar at the Hochschule für Philosophie Munich (University for Philosophy) at age 15.
 
