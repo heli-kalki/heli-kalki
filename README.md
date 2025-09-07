@@ -11,4 +11,4 @@
 
 🔅 6 years of experience in design 
 
-🧭 Took part in a proseminar in the Hochschule für Philosophie Munich at age 15
+🧭 Took part in a proseminar in the Hochschule für Philosophie Munich (University for Philosophy) at age 15 
