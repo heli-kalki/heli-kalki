@@ -13,7 +13,7 @@
 
 🔅 6 years of experience in graphical design, started with making my own Minecraft Texture Packs.
 
-🧭 Took part in a proseminar in the Hochschule für Philosophie Munich (University for Philosophy) at age 15.
+🧭 Took part in a proseminar at the Hochschule für Philosophie Munich (University for Philosophy) at age 15.
 
 💻 I code primarily to design my own apps, which is why I use AI much, but I start to really enjoy coding.
 
