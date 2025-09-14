@@ -1,4 +1,4 @@
-## Facts about me
+## 👋 Facts about me
 🎨 More of a designer than developer
 
 📍 Germany 🇩🇪
