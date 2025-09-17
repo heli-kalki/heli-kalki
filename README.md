@@ -9,7 +9,6 @@
 - Design
 - Philosophy
 - Theology
-- Finances
 
 🔅 6 years of experience in graphical design, started with making my own Minecraft Texture Packs, still only self-taught.
 
@@ -22,22 +21,15 @@
 ## 🔮 Things I want to code
 
 #### 🎨 Kalki:
-- Kalki Image Manipulation Programm
-- Kalki Cross-Platform (with Kivy)
-- Kalki Web
-- Kalki Vector
+- Kalki Image Manipulation Programm (+ Cross-Platform)
+- Kalki Vector (Envision)
 
 #### 📐 My own Office:
 - Writer (Gita)
-- Presentations (Stage)
-- Table Calculation
-- Database (Stacks)
 - Notes (Gautama)
-- Forms
-- Calendar
+- Calendar (Yuga)
 
 #### 📝 Learning platform:
 - Flashcards (Vithoba)
 - Quizzes (Vajra)
-- Courses
 - Exhibit (similar to Google Arts & Culture)
