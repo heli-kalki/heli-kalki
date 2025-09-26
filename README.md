@@ -16,20 +16,11 @@
 
 💻 I code primarily to design my own apps, which is why I use AI much, but I start to really enjoy coding.
 
-⚓ Currently, I only code with Python, but I want to start with Web Development and try C++ to improve the performance of my apps.
+⚓ Currently, I only code with Python, but I also want to try Web Development.
 
 ## 🔮 Things I want to code
 
 #### 🎨 Kalki:
-- Kalki Image Manipulation Programm (+ Cross-Platform)
-- Kalki Vector (Envision)
-
-#### 📐 My own Office:
-- Writer (Gita)
-- Notes (Gautama)
-- Calendar (Yuga)
-
-#### 📝 Learning platform:
+- Kalki Image Manipulation Program
 - Flashcards (Vithoba)
-- Quizzes (Vajra)
-- Exhibit (similar to Google Arts & Culture)
+- All In One Math Program (ParashuRama)
