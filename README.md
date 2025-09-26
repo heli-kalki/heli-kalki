@@ -18,9 +18,8 @@
 
 ⚓ Currently, I only code with Python, but I also want to try Web Development.
 
-## 🔮 Things I want to code
+## 🔮 Projects:
 
-#### 🎨 Kalki:
 - Kalki Image Manipulation Program
 - Flashcards (Vithoba)
 - All In One Math Program (ParashuRama)
